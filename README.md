@@ -1,4 +1,4 @@
-(test)
+(test 2)
 
 This project was originally created by a former Sipios software engineer [Sebastien Lubineau](https://www.linkedin.com/in/sebastien-lubineau/) : [https://github.com/sebastien-lb/japcalculator](https://github.com/sebastien-lb/japcalculator)
 
